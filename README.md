@@ -81,10 +81,7 @@ This project consists of a server and client implementation for logging keystrok
    ```
    [Enter]
    h
-e
-l
-l
-o
+
 ```
 
 ## Customization
